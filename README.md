@@ -40,7 +40,7 @@ A hands-on toolkit and reference sandbox explaining how GitHub Profile Achieveme
 | <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="52" alt="Galaxy Brain" /> | **Galaxy Brain** | Base: 2 · Bronze: 8 · Silver: 16 · Gold: 32 | Have your replies marked as **Accepted Answer** in Q&A Discussions. | [`galaxy-brain.ps1`](./scripts/galaxy-brain.ps1) |
 | <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="52" alt="Pull Shark" /> | **Pull Shark** | Base: 2 · Bronze: 16 · Silver: 128 · Gold: 1024 | Merge Pull Requests into a repository's default branch. | [`pull-shark.ps1`](./scripts/pull-shark.ps1) / [`pull-shark.sh`](./scripts/pull-shark.sh) |
 | <img src="https://github.githubassets.com/assets/public-sponsor-default-9fa68986b057.png" width="52" alt="Public Sponsor" /> | **Public Sponsor** | Single | Sponsor any open-source developer or organization via [GitHub Sponsors](https://github.com/sponsors). | Manual (from $1) |
-| <img src="https://github.githubassets.com/assets/starstruck-default-e12572e542f7.png" width="52" alt="Starstruck" /> | **Starstruck** | Base: 16 · Bronze: 128 · Silver: 512 · Gold: 4096 | Earn stars on one of your public repositories from unique users. | Community |
+| <img src="https://github.githubassets.com/assets/starstruck-gold-a35e077693cc.png" width="52" alt="Starstruck" /> | **Starstruck** | Base: 16 · Bronze: 128 · Silver: 512 · Gold: 4096 | Earn stars on one of your public repositories from unique users. | Community |
 
 ---
 

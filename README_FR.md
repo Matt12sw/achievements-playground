@@ -40,7 +40,7 @@ Un guide pratique et une boîte à outils complète pour comprendre le fonctionn
 | <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="52" alt="Galaxy Brain" /> | **Galaxy Brain** | Base : 2 · Bronze : 8 · Argent : 16 · Or : 32 | Voir ses réponses marquées comme **Réponse acceptée** dans des Discussions Q&A. | [`galaxy-brain.ps1`](./scripts/galaxy-brain.ps1) |
 | <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="52" alt="Pull Shark" /> | **Pull Shark** | Base : 2 · Bronze : 16 · Argent : 128 · Or : 1024 | Fusionner des Pull Requests sur la branche par défaut. | [`pull-shark.ps1`](./scripts/pull-shark.ps1) / [`pull-shark.sh`](./scripts/pull-shark.sh) |
 | <img src="https://github.githubassets.com/assets/public-sponsor-default-9fa68986b057.png" width="52" alt="Public Sponsor" /> | **Public Sponsor** | Unique | Sponsoriser un développeur ou une organisation open-source via [GitHub Sponsors](https://github.com/sponsors). | Manuel (dès 1 $) |
-| <img src="https://github.githubassets.com/assets/starstruck-default-e12572e542f7.png" width="52" alt="Starstruck" /> | **Starstruck** | Base : 16 · Bronze : 128 · Argent : 512 · Or : 4096 | Recevoir des étoiles sur l'un de vos dépôts publics. | Communauté |
+| <img src="https://github.githubassets.com/assets/starstruck-gold-a35e077693cc.png" width="52" alt="Starstruck" /> | **Starstruck** | Base : 16 · Bronze : 128 · Argent : 512 · Or : 4096 | Recevoir des étoiles sur l'un de vos dépôts publics. | Communauté |
 
 ---
 
